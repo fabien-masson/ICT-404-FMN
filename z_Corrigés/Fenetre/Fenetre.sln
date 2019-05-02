@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fenetre", "Fenetre\Fenetre.csproj", "{86293AC5-8BC3-41EB-B0F3-92DA4E9DAC3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86293AC5-8BC3-41EB-B0F3-92DA4E9DAC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86293AC5-8BC3-41EB-B0F3-92DA4E9DAC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86293AC5-8BC3-41EB-B0F3-92DA4E9DAC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86293AC5-8BC3-41EB-B0F3-92DA4E9DAC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
