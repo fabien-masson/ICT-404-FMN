@@ -1,4 +1,10 @@
-﻿using System;
+﻿//Déductions
+//03.06.19
+//Fabien Masson
+
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
