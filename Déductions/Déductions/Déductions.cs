@@ -107,6 +107,9 @@ namespace Déductions
 
         }
 
+        private void TxtBox1_TextChanged(object sender, EventArgs e)
+        {
 
+        }
     }
 }

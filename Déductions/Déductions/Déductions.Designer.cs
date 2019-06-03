@@ -78,6 +78,7 @@
             this.txtBox1.Name = "txtBox1";
             this.txtBox1.Size = new System.Drawing.Size(100, 20);
             this.txtBox1.TabIndex = 3;
+            this.txtBox1.TextChanged += new System.EventHandler(this.TxtBox1_TextChanged);
             // 
             // txtBox2
             // 

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Traban2000.Properties
+namespace Calculette.Properties
 {
 
 

@@ -67,7 +67,7 @@ namespace Fenetrebleuerouge
 
         private void txtStats_Click(object sender, EventArgs e)
         {
-                MessageBox.Show(compteurDepl + "déplacements et " + compteurCouleur + "changements de couleur");
+                MessageBox.Show(compteurDepl + " déplacements et " + compteurCouleur + " changements de couleur");
                 return;
         }
 
@@ -75,6 +75,7 @@ namespace Fenetrebleuerouge
         {
             X = int.Parse(txtX.Text);
             Y = int.Parse(txtY.Text);
+            compteurDepl += 1;
             this.SetBounds(X, Y, 470, 500);
 
         }
